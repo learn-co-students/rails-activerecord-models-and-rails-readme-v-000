@@ -38,7 +38,7 @@ in a class file.
 A typical model file will contain code such as but not limited to the following:
 
 - [Custom scopes][scopes]
-- Model instance methods
+- Model instance methodsa
 - Default settings for database columns
 - [Validations][validations]
 - [Model-to-model relationships][relationships]
