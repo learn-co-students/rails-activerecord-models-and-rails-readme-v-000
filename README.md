@@ -1,3 +1,4 @@
+Somehow became incomplete => resubmitting
 # Active Record Models and Rails
 
 ## Active Record's Role
