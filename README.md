@@ -1,4 +1,4 @@
-# Active Record Models and Rails
+l# Active Record Models and Rails
 
 ## Active Record's Role
 
