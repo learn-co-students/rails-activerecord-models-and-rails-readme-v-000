@@ -5,7 +5,6 @@
 Active Record is the built-in ORM that Rails utilizes to manage the model
 aspects of an application. What is an ORM? An ORM is an Object Relational
 Mapping system, essentially this is the module that enables your application to
-manage data in a method driven structure. This means that you are able to run
 queries, add records, and perform all of the traditional database processes by
 leveraging methods as opposed to writing SQL manually. For example, below is the
 traditional way that we would query a database of 'posts' using SQL:
