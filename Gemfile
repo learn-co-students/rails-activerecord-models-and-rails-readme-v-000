@@ -37,6 +37,8 @@ group :development, :test do
   gem 'byebug'
   # We'll use rspec for tests
   gem 'rspec-rails', '~> 3.0'
+  gem 'capybara'
+  gem 'database_cleaner'
 end
 
 group :development do
@@ -45,4 +47,5 @@ group :development do
 
   # Spring speeds up development by keeping your application running in the background. Read more: https://github.com/rails/spring
   gem 'spring'
+  gem 'capybara'
 end
