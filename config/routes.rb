@@ -1,4 +1,7 @@
 Rails.application.routes.draw do
+<<<<<<< HEAD
+  # For details on the DSL available within this file, see http://guides.rubyonrails.org/routing.html
+=======
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
 
@@ -53,4 +56,5 @@ Rails.application.routes.draw do
   #     # (app/controllers/admin/products_controller.rb)
   #     resources :products
   #   end
+>>>>>>> ff7c9ab19bf2feaf7aed6c97fa383d53147aee7e
 end
